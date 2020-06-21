@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592159183 source:e:\elikplim\my stuff\docs\integer to word convertor\main.cpp
+	<iostream>
+	<stdlib.h>
+
